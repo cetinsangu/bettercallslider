@@ -14,6 +14,6 @@
 
 - Managing the active class. There were 2 solutions for me. One is the long type and the other one is the short. The long one was possible with simple class remove function. But there was a simple way: Using querySelector and remove the active class directly. So I used that.
 
-A FEW PHOTOS:
+#OVERVIEW:
 
 ![overview](imgs/overview.png)
